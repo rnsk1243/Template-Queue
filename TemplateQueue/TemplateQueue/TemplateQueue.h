@@ -50,7 +50,7 @@ public:
 		if (isEmpty())
 		{
 			// T가 string형일 경우 오류뜸...
-			return NULL;
+			return T();
 		}
 		else
 		{
